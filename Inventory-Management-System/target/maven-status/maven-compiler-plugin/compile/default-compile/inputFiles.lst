@@ -1,9 +1,0 @@
-C:\Users\mohit_jaiswal\Documents\Assigment\Inventory-Management-System\src\main\java\com\inventory\service\Inventory\Management\System\config\KafkaProducerConfig.java
-C:\Users\mohit_jaiswal\Documents\Assigment\Inventory-Management-System\src\main\java\com\inventory\service\Inventory\Management\System\controller\InventoryController.java
-C:\Users\mohit_jaiswal\Documents\Assigment\Inventory-Management-System\src\main\java\com\inventory\service\Inventory\Management\System\dto\AuthRequest.java
-C:\Users\mohit_jaiswal\Documents\Assigment\Inventory-Management-System\src\main\java\com\inventory\service\Inventory\Management\System\entity\Inventory.java
-C:\Users\mohit_jaiswal\Documents\Assigment\Inventory-Management-System\src\main\java\com\inventory\service\Inventory\Management\System\InventoryManagementSystemApplication.java
-C:\Users\mohit_jaiswal\Documents\Assigment\Inventory-Management-System\src\main\java\com\inventory\service\Inventory\Management\System\repository\InventoryRepository.java
-C:\Users\mohit_jaiswal\Documents\Assigment\Inventory-Management-System\src\main\java\com\inventory\service\Inventory\Management\System\service\InventoryService.java
-C:\Users\mohit_jaiswal\Documents\Assigment\Inventory-Management-System\src\main\java\com\inventory\service\Inventory\Management\System\service\JwtService.java
-C:\Users\mohit_jaiswal\Documents\Assigment\Inventory-Management-System\src\main\java\com\inventory\service\Inventory\Management\System\service\kafka\KafkaConsumerService.java
